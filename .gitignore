@@ -1,0 +1,17 @@
+**/.DS_Store
+lib
+node_modules
+.file
+.next
+.idea
+.node-version
+coverage
+yarn-error.log
+test-report.xml
+newrelic_agent.log
+*.iml
+server_obf
+dump.rdb
+.eslintcache
+.env
+build
